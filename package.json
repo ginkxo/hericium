@@ -1,0 +1,20 @@
+{
+  "name": "hericium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginkxo/hericium.git"
+  },
+  "keywords": [],
+  "author": "ash k <titanium.pizza@gmail.com> (none)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginkxo/hericium/issues"
+  },
+  "homepage": "https://github.com/ginkxo/hericium#readme"
+}
